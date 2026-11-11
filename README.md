@@ -24,3 +24,7 @@ feito por:Sefas Nathan
 Data:27/08/2026
 
 
+
+
+Avaliação do projeto feita por Lucas Moura do Nascimento 11/11/2026 as 13:00 horas 
+O projeto apresenta uma boa separação e organização dos arquivos, demonstrando cuidado com a estrutura e a organização do código. O HTML segue boas práticas de desenvolvimento, com uma estrutura clara e de fácil compreensão, atendendo a diversos requisitos abordados durante as aulas. A organização inicial demonstra uma boa base para o desenvolvimento da aplicação, embora ainda exista espaço para aprimoramentos, principalmente na implementação e no aprofundamento das funcionalidades em JavaScript, que podem contribuir para tornar o projeto mais dinâmico e a atendender requisitos de aulas anteriores.
